@@ -1,3 +1,9 @@
+## v1.5.0 (2026-09-12)
+
+### Feat
+
+- **frontend**: adiciona precos dinamicos e reconexao automatica
+
 ## v1.4.0 (2026-09-11)
 
 ### Feat
