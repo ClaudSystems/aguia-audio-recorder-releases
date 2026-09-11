@@ -1,3 +1,15 @@
+## v1.4.0 (2026-09-11)
+
+### Feat
+
+- **frontend**: adiciona tela de loading durante arranque do backend
+
+## v1.3.0 (2026-09-11)
+
+### Feat
+
+- **premium**: integra licenciamento com vps e token assinado
+
 ## v1.2.3 (2026-09-11)
 
 ### Fix
