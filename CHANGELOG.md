@@ -1,3 +1,16 @@
+## v1.2.3 (2026-09-11)
+
+### Fix
+
+- **backend**: melhora detecao e termino de instancias antigas
+
+## v1.2.2 (2026-09-11)
+
+### Fix
+
+- sincroniza versao em package.json, rodape e installer
+- **version**: version
+
 ## v1.2.1 (2026-09-11)
 
 ### Fix
