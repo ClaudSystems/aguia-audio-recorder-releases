@@ -1,3 +1,21 @@
+## v1.8.2 (2026-09-12)
+
+### Fix
+
+- **folders**: respect selected folder, add delete, fix track counts
+
+## v1.8.1 (2026-09-12)
+
+### Fix
+
+- **vumeter**: fix empty frequency bands in spectrum analyzer
+
+## v1.8.0 (2026-09-12)
+
+### Feat
+
+- **ui**: dd startup connection overlay and force-close old tabs
+
 ## v1.7.0 (2026-09-12)
 
 ### Feat
