@@ -1,3 +1,9 @@
+## v1.6.0 (2026-09-12)
+
+### Feat
+
+- **audio**: adiciona gravacao em opus e bitrate configuravel
+
 ## v1.5.0 (2026-09-12)
 
 ### Feat
