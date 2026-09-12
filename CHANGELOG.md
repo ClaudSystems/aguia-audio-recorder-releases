@@ -1,3 +1,9 @@
+## v1.7.0 (2026-09-12)
+
+### Feat
+
+- **eq**: add 10-band EQ, backend trial, and Pro gating
+
 ## v1.6.0 (2026-09-12)
 
 ### Feat
