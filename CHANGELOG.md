@@ -1,3 +1,67 @@
+﻿## v1.11.0 (2026-09-13)
+
+### Feat
+
+- **backend**: add single-instance lock, auto-resume, timer sync and pycaw support
+- **shutdown**: add save/discard modal and background recording overlay
+
+### Build
+
+- **pyinstaller**: fix tray icon bundling and clean specs
+
+### Fix
+
+- **timer**: sync elapsed time with backend on reconnect
+- **audio**: serve audio from subfolders and fix opus mime type
+
+## v1.10.0 (2026-09-13)
+
+### Feat
+
+- **windows-sound**: ignore Windows sounds during recording (pycaw)
+- **system-tray**: add tray icon with open/quit menu
+
+## v1.9.0 (2026-09-13)
+
+### Feat
+
+- **silence**: add hide/show toggle to silence settings panel
+
+### Fix
+
+- **folders**: correct folder selection, player lookup and ffmpeg windows
+## v1.11.0 (2026-09-13)
+
+### Feat
+
+- **backend**: add single-instance lock, auto-resume, timer sync and pycaw support
+- **shutdown**: add save/discard modal and background recording overlay
+
+### Build
+
+- **pyinstaller**: fix tray icon bundling and clean specs
+
+### Fix
+
+- **timer**: sync elapsed time with backend on reconnect
+- **audio**: serve audio from subfolders and fix opus mime type
+
+## v1.10.0 (2026-09-13)
+
+### Feat
+
+- **windows-sound**: ignore Windows sounds during recording (pycaw)
+- **system-tray**: add tray icon with open/quit menu
+
+## v1.9.0 (2026-09-13)
+
+### Feat
+
+- **silence**: add hide/show toggle to silence settings panel
+
+### Fix
+
+- **folders**: correct folder selection, player lookup and ffmpeg windows
 ## v1.8.2 (2026-09-12)
 
 ### Fix
@@ -86,3 +150,5 @@
 ## v1.0.1 (2026-09-09)
 
 ## v1.0.0 (2026-09-09)
+
+
