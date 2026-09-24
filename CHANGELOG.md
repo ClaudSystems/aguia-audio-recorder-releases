@@ -1,4 +1,9 @@
-﻿## v1.11.0 (2026-09-13)
+﻿## v1.12.0 (2026-09-21)
+
+### Feat
+
+- **audio-source**: add audio source selector (system/microphone/mixed)
+## v1.11.0 (2026-09-13)
 
 ### Feat
 
@@ -150,5 +155,6 @@
 ## v1.0.1 (2026-09-09)
 
 ## v1.0.0 (2026-09-09)
+
 
 
