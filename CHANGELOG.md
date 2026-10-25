@@ -1,4 +1,14 @@
-﻿## v1.13.0 (2026-09-24)
+## v1.15.0 (2026-10-25)
+
+### Feat
+
+- **tracklist**: add hide/show toggle for the track list
+## v1.14.0 (2026-10-25)
+
+### Feat
+
+- **player**: delete current track, playback EQ with input/playback switch, live VU meter on playback, volume harmonization, cut/split tracks and 5 repeat modes
+## v1.13.0 (2026-09-24)
 
 ### Feat
 
